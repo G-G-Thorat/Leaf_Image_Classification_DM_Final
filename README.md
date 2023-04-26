@@ -1,6 +1,6 @@
 # Leaf_Image_Classification_DM_Final
 
-![Image](final_proj.jpg)
+![Image](final_proj.jpg)<br>
 *Mango Leaf Image classfication [Source](https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset)*
 
 ## In this repositery we are building a leaf disease image classification model with different machine learning algorithms to find out the best model we can get.
