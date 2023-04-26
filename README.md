@@ -10,6 +10,6 @@
 - We will bulild a web application to serve our model as a product using Gradio.
 - We will also consider experimenation tracking with MLflow.
 
-It's recommended to start with this [Medium blog post](https://medium.com/@yogesh.grjr4/wild-animal-image-classifier-78037713f593)
+It's recommended to start with this [Medium blog post](https://medium.com/@gauravthorat1998/leaf-disease-dataset-image-classifier-845a23ddfa32)
 
 You can acccess [__Project video__](https://www.youtube.com/watch?v=JztsuLuHHTs) here.
