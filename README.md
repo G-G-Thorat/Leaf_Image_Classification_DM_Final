@@ -12,4 +12,4 @@
 
 It's recommended to start with this [Medium blog post](https://medium.com/@gauravthorat1998/leaf-disease-dataset-image-classifier-845a23ddfa32)
 
-You can acccess [__Project video__](https://www.youtube.com/watch?v=JztsuLuHHTs) here.
+You can acccess [__Project video__](https://www.youtube.com/watch?v=p0zb9K8UaTs) here.
